@@ -3,28 +3,28 @@ https://codepen.io/morganwilliamson/pen/poyrXGR?editors=1100
 
 Questions: 
 
-    1. What is Semantic HTML? HTML that gives meaning or context to our markup. 
-    2. What is HTML used for? Used to build the foundation of a website. 
-    3. What is an attribute and where do we put it? 
-    4. What is the h1 tag used for? How many times should I use it on a page?
-    5. Name two tags that have required attributes
-    6. What do we put in the head of our HTML document? 
-    7. What is an id? 
-    8. What elements can I add an id to? 
-    9. How many times can I use the same id on a page? 
-    10. What is a class? 
-    11. What elements can I add a class to? 
-    12. How many times can I use the same class on a page? 
-    13. How do I get my link to open in a new tab?
-    14. What is the alt attribute in the image tag used for? 
-    15. How do I reference an id?
-    16. What is the difference between a section and a div
-    17. What is CSS used for? 
-    18. How to we select an element? Example - every h2 on the page
-    19. What is the difference between a class and an id? - Give me an example of when I might use each one
-    20. How do we select classes in CSS?
-    21. How do we select a p element with a single class of “human””?
-    22. What is a parent child selector? When would this be useful? 
+    1. What is Semantic HTML? * HTML that gives meaning or context to our markup. 
+    2. What is HTML used for? * Used to build the foundation of a website. 
+    3. What is an attribute and where do we put it? * Attributes modify HTML tags/elements, and they go within the tag itself.  
+    4. What is the h1 tag used for? How many times should I use it on a page? * The title/most important item on the page. You should only use it once.
+    5. Name two tags that have required attributes. * <img> and <a>
+    6. What do we put in the head of our HTML document?  * Information we don't want the user to see. 
+    7. What is an id? * A unique identifier that's only used for a single item on the page. 
+    8. What elements can I add an id to? * Any elements.
+    9. How many times can I use the same id on a page? * Once. 
+    10. What is a class? * An identifier that can be used for multiple elements. 
+    11. What elements can I add a class to? * Any elements. 
+    12. How many times can I use the same class on a page? * As often as you need to. 
+    13. How do I get my link to open in a new tab? * target="_blank"
+    14. What is the alt attribute in the image tag used for? * Describing the image, useful for screen readers for the visually impaired. 
+    15. How do I reference an id? * #id 
+    16. What is the difference between a section and a div * A section marks different chunks of the page, a div is meant to contain single elements.
+    17. What is CSS used for? * Styling the HTML, making it look pretty and functional. 
+    18. How to we select an element? Example - every h2 on the page * h2{styling rules go here}
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one * A class could be used on all <p>'s, while an id would be used for one specific <p>. 
+    20. How do we select classes in CSS? * .class{styling rules go here}
+    21. How do we select a p element with a single class of “human””? * p.human{styling rules go here}
+    22. What is a parent child selector? When would this be useful? *
     23. How do you select all links within a div with the class of sidebar?
     24. What is a pseudo selector?
     25. What do we use the change the spacing between lines?
